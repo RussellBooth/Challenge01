@@ -16,7 +16,7 @@ The usage of this document is to provide some detailed comments on what each sec
 
 ## Credits
 
-N/A
+The original code is not of my own, and was sourced from a class assignment of the UC Davis Coding Bootcamp. The credits are for them, the UC Davis Coding Bootcamp.
 
 ## License
 
